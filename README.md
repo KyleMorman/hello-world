@@ -1,2 +1,4 @@
 # hello-world
-program to print "Hello world" to the screen
+
+Hi humans,
+I'm the man.
